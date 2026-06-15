@@ -1,0 +1,10 @@
+{
+  "name": "Kamo AI Workspace",
+  "description": "A modern AI workspace featuring a chatbot, image generator, tools like paraphrase and translator.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
